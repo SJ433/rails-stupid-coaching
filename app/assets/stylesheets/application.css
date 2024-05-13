@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+.answer {
+  background-color: rgb(72, 72, 114);
+  color: aliceblue;
+}
+
+.ask {
+  background-color: rgb(114, 72, 72);
+  color: aliceblue;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: yellow;
+}
